@@ -45,6 +45,5 @@
 
 ## 후원사
 
-![Bolta](https://cf.festa.io/img/2024-1-10/02bef911-9471-447a-b142-746fafff2c0c.png)
-
-![한빛미디어](https://cf.festa.io/img/2024-1-11/3403122a-7041-4b44-b5c9-d94f59d2d27a.png)
+![볼타](https://github.com/lazyconf-dev/2024-lazydevconf/assets/22961251/c7787fae-9954-4089-8378-793466777dd8)
+![한빛미디어](https://github.com/lazyconf-dev/2024-lazydevconf/assets/22961251/e061e737-c828-408b-873d-d464f7fa6fa7)
