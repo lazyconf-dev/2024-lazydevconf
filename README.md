@@ -49,4 +49,5 @@
 
 ## 후원사
 ![볼타](https://github.com/lazyconf-dev/2024-lazydevconf/assets/22961251/c7787fae-9954-4089-8378-793466777dd8)
-![한빛미디어](https://github.com/lazyconf-dev/2024-lazydevconf/assets/22961251/e061e737-c828-408b-873d-d464f7fa6fa7)
+![한빛미디어](https://github.com/lazyconf-dev/2024-lazydevconf/assets/22961251/e5d550b4-d292-44ec-b833-df5e48cfd42e)
+
